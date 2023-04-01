@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TrentDevStuff.github.io/categories/</loc>
+    <loc>https://TrentWebStuff.github.io/about/</loc>
+    <lastmod>2023-03-11T11:14:19-07:00</lastmod>
   </url><url>
-    <loc>https://TrentDevStuff.github.io/tags/</loc>
+    <loc>https://TrentWebStuff.github.io/categories/</loc>
   </url><url>
-    <loc>https://TrentDevStuff.github.io/</loc>
+    <loc>https://TrentWebStuff.github.io/tags/</loc>
+  </url><url>
+    <loc>https://TrentWebStuff.github.io/</loc>
   </url>
 </urlset>

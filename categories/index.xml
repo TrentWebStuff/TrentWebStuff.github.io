@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Trent Peterson</title>
-    <link>https://TrentDevStuff.github.io/categories/</link>
+    <link>https://TrentWebStuff.github.io/categories/</link>
     <description>Recent content in Categories on Trent Peterson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Trent Peterson GE 2023</copyright><atom:link href="https://TrentDevStuff.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Trent Peterson GE 2023</copyright><atom:link href="https://TrentWebStuff.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

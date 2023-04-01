@@ -2,10 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trent Peterson</title>
-    <link>https://TrentDevStuff.github.io/</link>
+    <link>https://TrentWebStuff.github.io/</link>
     <description>Recent content on Trent Peterson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Trent Peterson GE 2023</copyright><atom:link href="https://TrentDevStuff.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Trent Peterson GE 2023</copyright><atom:link href="https://TrentWebStuff.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://TrentWebStuff.github.io/about/</link>
+      <pubDate>Sat, 11 Mar 2023 11:14:19 -0700</pubDate>
+      
+      <guid>https://TrentWebStuff.github.io/about/</guid>
+      <description>Introduction to HUGO and GitPage # Hugo is one of the most popular open-source static site generators and is written in GO. It’s simple, efficient, easy to scale and fast to deploy. Simply install with brew, clone themes you like from Github or the official website HUGO, make some changes in the configuration file and deploy, then your page will be online.
+Github Pages is a static web hosting service provided by Github, which provides 1GB of free space and provides convenient deployment directly through the Github repository.</description>
+    </item>
+    
   </channel>
 </rss>
